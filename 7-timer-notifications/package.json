@@ -1,0 +1,23 @@
+{
+  "name": "7-timer-notifications",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/PavelKochetkov/7-timer-notifications#readme",
+  "bugs": {
+    "url": "https://github.com/PavelKochetkov/7-timer-notifications/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelKochetkov/7-timer-notifications.git"
+  },
+  "license": "ISC",
+  "author": "Pavel Kochetkov",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-notifier": "^10.0.1"
+  }
+}
